@@ -12,7 +12,7 @@
 - 事前学習済みモデル: YOLOv8n
 
 以下のURLからデータセットをダウンロードできます。  
-https://huggingface.co/datasets/Yutatt/tsukuba-closed-signboard
+[Hugging Face](https://huggingface.co/datasets/Yutatt/tsukuba-closed-signboard), [Kaggle](https://www.kaggle.com/datasets/qdgvhz9qyf9v/tsukuba-signboard-dataset/data)
 
 ## デモ
 https://github.com/user-attachments/assets/ea85cbb4-2bb2-42b3-92bf-44f413820fc2
